@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+intervueai/.env
+
+
 /.pnp
 .pnp.*
 .yarn/*
